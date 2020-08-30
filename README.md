@@ -1,5 +1,16 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## JSHunt
+Pequeno projeto criado em React, com utilização de uma api, aplicando alguns princípios básicos da Lib, como:
+- componentização;
+- roteamento com React Router;
+- ciclos de vida, com a utilização de métodos como o componentDidMount();
+- utilização do state;
+- utilização de propriedades;
+- estilização com CSS;
+
+#######################################################
+
 ## Available Scripts
 
 In the project directory, you can run:
